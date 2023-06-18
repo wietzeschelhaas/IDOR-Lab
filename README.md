@@ -11,5 +11,6 @@ OWASP Juice Shop kan nu nås på: http://127.0.0.1:3000
 Det kan va så att man behöver skapa ett konto för att komma åt t.e.x varukorgen, man behöver då inte ange en riktig mejladress.
 ### Uppgifter
 * Få tillgång till andra användares varukorgar
-* Gör en kommentar med admin kontot
-* Redigera en befintlig kommentar
+* Lämna en recension i admins namn
+* Redigera en befintlig recension
+* Uppdatera någon annans varkorg. Tips https://www.imperva.com/learn/application-security/http-parameter-pollution/
